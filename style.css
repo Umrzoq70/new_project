@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing: border-box;
 }
+<<<<<<< HEAD
 
 
 .behruz-1{
@@ -43,4 +44,33 @@ color: white;
 
 .beh-a1{
    
+=======
+.umr-head{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.umr-btn{
+    color: white;
+    background-color: black;
+    height: 45px;
+    width: 115px;   
+}
+.umr11{
+    display: flex;
+    justify-content: space-between;
+}
+.umr-left{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 400px;
+}
+.umr11 .umr-left h2{
+     font-size: 50px;
+>>>>>>> 399db7c9adc037186e0cc3b7a82ad72677764f96
 }
